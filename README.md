@@ -2,7 +2,7 @@
 
 # Bootcamp Notes Repository
 
-This is a repository created by [Daniel Rocha](github.com/daniel-roc) to store the notes taken during each course provided by [dio.me](dio.me).
+This is a repository created by [Daniel Rocha](https://github.com/daniel-roc) to store the notes taken during each course provided by [dio.me](https://www.dio.me/).
 
 <br>
 
